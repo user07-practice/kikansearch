@@ -25,15 +25,15 @@ os.environ["HTTPS_PROXY"] = ""
 # Gmail設定
 # =========================================================
 
-MY_EMAIL = "kaoruoza@gmail.com"
-APP_PASSWORD = "owmernjntujwlafw"
+MY_EMAIL = ""
+APP_PASSWORD = ""
 
 
 # =========================================================
 # Google Books API設定
 # =========================================================
 
-GOOGLE_BOOKS_API_KEY = "AIzaSyBwddp3t-li8Ttpiqu7bLApfiGbd27LnIU"
+GOOGLE_BOOKS_API_KEY = ""
 
 
 # =========================================================
